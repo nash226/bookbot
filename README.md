@@ -14,35 +14,26 @@ BookBot is a simple Python project that takes in a book (as a `.txt` file) and g
 
 ## Example Output
 
-For a given book, BookBot might output something like:
+============ BOOKBOT ============
+Analyzing book found at books/frankenstein.txt
+----------- Word Count ----------
+Found 75767 total words
+--------- Character Count -------
+e: 44538
+t: 29493
+a: 25894
+o: 24494
+i: 23927
+n: 23643
+s: 20360
+r: 20079
+h: 19176
+d: 16318
+l: 12306
+m: 10206
+...
+============= END ===============
 
---- BookBot Report ---
-Total characters: 235,411
-
-Unique characters: 68
-
-Top 10 most frequent characters:
-' ' (space): 52,310 times
-
-'e': 32,844 times
-
-'t': 24,111 times
-
-'a': 20,876 times
-
-'o': 19,432 times
-
-'n': 18,799 times
-
-'i': 17,665 times
-
-'s': 15,902 times
-
-'r': 15,633 times
-
-'h': 13,441 times
-
----
 
 ## Installation
 
