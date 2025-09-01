@@ -18,7 +18,9 @@ For a given book, BookBot might output something like:
 
 --- BookBot Report ---
 Total characters: 235,411
+
 Unique characters: 68
+
 Top 10 most frequent characters:
 
 ' ' (space): 52,310 times
