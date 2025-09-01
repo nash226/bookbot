@@ -20,10 +20,15 @@ For a given book, BookBot might output something like:
 Total characters: 235,411
 Unique characters: 68
 Top 10 most frequent characters:
+
 ' ' (space): 52,310 times
+
 'e': 32,844 times
+
 't': 24,111 times
+
 'a': 20,876 times
+
 ...
 
 ---
