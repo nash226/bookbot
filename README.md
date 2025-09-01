@@ -1,3 +1,7 @@
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
+
 # BookBot
 
 BookBot is a simple Python project that takes in a book (as a `.txt` file) and generates a statistical analysis of the characters in the text. It’s designed as a lightweight tool to explore how often each character appears, making it easy to analyze large amounts of text programmatically.
@@ -22,7 +26,6 @@ Total characters: 235,411
 Unique characters: 68
 
 Top 10 most frequent characters:
-
 ' ' (space): 52,310 times
 
 'e': 32,844 times
@@ -31,7 +34,17 @@ Top 10 most frequent characters:
 
 'a': 20,876 times
 
-...
+'o': 19,432 times
+
+'n': 18,799 times
+
+'i': 17,665 times
+
+'s': 15,902 times
+
+'r': 15,633 times
+
+'h': 13,441 times
 
 ---
 
