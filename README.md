@@ -1,7 +1,3 @@
-# bookbot
-
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
-
 # BookBot
 
 BookBot is a simple Python project that takes in a book (as a `.txt` file) and generates a statistical analysis of the characters in the text. It’s designed as a lightweight tool to explore how often each character appears, making it easy to analyze large amounts of text programmatically.
